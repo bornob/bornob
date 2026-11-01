@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bornob Roy</h1>
+**<h1 align="center">Hi 👋, I'm Bornob Roy</h1>
 <h3 align="center">CSE (Artificial Intelligence & Machine Learning) Student at Lovely Professional University.</h3>
 
 <p align="center">
@@ -73,3 +73,4 @@
 
 ### 🎯 My Mission
 > **DREAM BIG | LEARN DAILY | BUILD THE FUTURE** 🚀
+**
